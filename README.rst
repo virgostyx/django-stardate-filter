@@ -23,3 +23,7 @@ Quick start
     <div>Stardate: {{ today|stardate }}</div>
 
 And it display the date provided as a stardate
+
+Please use this app and the code freely
+Special thanks to Nicolas FLANDROIS for the conversion formula
+Live long and Prosper
